@@ -1,0 +1,16 @@
+{
+  "name": "quangcntt/model",
+  "description": "ORM",
+  "autoload": {
+    "psr-4": {
+      "Quangcntt\\Model\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "QUANGCNTT",
+      "email": "quang@gmail.com"
+    }
+  ],
+  "require": {}
+}
